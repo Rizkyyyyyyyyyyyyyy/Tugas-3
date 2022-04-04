@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Cara Memasukkan Gambar di HTML</title>
-</head>
 <body>
-  <p>Ini adalah contoh gambar langit:<img src="langit.png" style="width:500px;height:400px;" align="middle"> dengan align="middle"</p>
+
+<h2>Image Size</h2>
+
+<p>Here we use the style attribute to specify the width and height of an image:</p>
+
+<img src="img_girl.jpg" alt="Girl in a jacket" style="width:500px;height:600px;">
+
 </body>
 </html>
