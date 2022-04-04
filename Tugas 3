@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Cara Memasukkan Gambar di HTML</title>
+</head>
+<body>
+  <p>Ini adalah contoh gambar langit:<img src="langit.png" style="width:500px;height:400px;" align="middle"> dengan align="middle"</p>
+</body>
+</html>
