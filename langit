@@ -1,0 +1,8 @@
+<html>
+<head>
+  <title>Cara Memasukkan Gambar di HTML</title>
+</head>
+<body>
+  <img src="langit.png" alt="Gambar_Langit" title="Ini adalah langit pagi">
+</body>
+</html>
